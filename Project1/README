@@ -1,0 +1,6 @@
+This is the project 1 for the course Embedded Interface Design.
+The Project contains:
+1.User Interface(.ui) file.
+2.A python script which uses pyqt5 libraries to render UI.
+How to Run the Code:Clone the git repository to your Raspberry Pi. Go to folder Project1 run the TemperatureQT_shuham.py script by typing in the terminal "python3 TemperatureQT_shubham.py" Then the GUI will Appear.
+You can request the temperature, humidity and time data by clicking the fetch data button.
